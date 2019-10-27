@@ -9,8 +9,8 @@ void selectionSort(int array[], int value);
 int main() {
 	srand(time(NULL));
 	clock_t time;
-
-	int arrayA[3000], arrayB[5000], arrayC[1000]; //Diziler tanýmlandý.
+	int ss;
+	int arrayA[3000], arrayB[5000], arrayC[10000]; //Diziler tanýmlandý.
 
 	gives_rnd(arrayA, sizeof(arrayA) / sizeof(*arrayA));
 	gives_rnd(arrayB, sizeof(arrayB) / sizeof(*arrayB));
