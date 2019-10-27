@@ -1,0 +1,4 @@
+﻿  Kaynak.cpp
+C:\Users\HP\source\repos\SelectionShort\SelectionShort\Kaynak.cpp(11,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\HP\source\repos\SelectionShort\SelectionShort\Kaynak.cpp(13,29): warning C4101: 'arrayC': yerel değişken başvurusu kaldırıldı
+  SelectionShort.vcxproj -> C:\Users\HP\source\repos\SelectionShort\Debug\SelectionShort.exe
